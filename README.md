@@ -22,7 +22,9 @@ extensive experiments across multiple platforms (representing the distribution
 shift) showing if causal cues can help cross-platform generalization.
 
 To run PEACE - run the file New_Framework_Embedding_Level_Fusion.ipynb (Replace it with the appropriate train and test files' locations)
+
 The baselines are in the Baselines folder - It contains, ImpCon, HateBERT, HateXplain.
+
 Data can be downloaded from - https://hatespeechdata.com/#English-header
 
 <!-- If you use our paper or code please cite us using: -->
